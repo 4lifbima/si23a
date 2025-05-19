@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Regita cahyani Majid",
+    "nim": "531423001",
+    "image": "assets/img/team/gita.jpg",
+    "bio": "Merupakan mahasiswa Universitas Negeri Gorontalo angkatan 2023",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Teguh Dwi Saputro",
+    "nim": "531423002",
+    "image": "assets/img/team/teguh.jpg",
+    "bio": "Merupakan mahasiswa Universitas Negeri Gorontalo angkatan 2023",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Zulkarnain Hunto",
+    "nim": "531423003",
+    "image": "assets/img/team/jul.jpg",
+    "bio": " Merupakan mahasiswa Universitas Negeri Gorontalo angkatan 2023",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Alya Rahma",
+    "nim": "531423004",
+    "image": "assets/img/team/alya.jpg",
+    "bio": "Merupakan mahasiswa Universitas Negeri Gorontalo angkatan 2023",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Muhammad Agung",
+    "nim": "531423005",
+    "image": "assets/img/team/agungs.jpg",
+    "bio": " Merupakan mahasiswa Universitas Negeri Gorontalo angkatan 2023",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Amanda Jepson",
+    "nim": "531423006",
+    "image": "assets/img/team/naz.jpg",
+    "bio": " Merupakan mahasiswa Universitas Negeri Gorontalo angkatan 2023.",
+    "social": {
+      "twitter": "#",
+      "facebook": "#",
+      "instagram": "#",
+      "linkedin": "#"
+    }
+  }
+]
